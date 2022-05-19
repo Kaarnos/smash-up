@@ -1,5 +1,3 @@
-console.log("Hello world!");
-
 import Card from "./components/Card.js";
 
 const newCard = new Card(1);
