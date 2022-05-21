@@ -1,31 +1,3 @@
-.player-info-container {
-    max-width: 400px;
-    height: 32px;
-    background-color: #DCC99A;
-    color: black;
-}
+@import 'ScoreBar.css';
 
-#player-info-2 {
-    background-color: #DB8607;
-}
 
-.info-name {
-    white-space: nowrap;
-    text-overflow: ellipsis;
-    overflow: hidden;
-    margin-right: 5px;
-}
-
-.info-name {
-    flex-grow: 1;
-}
-
-.info-score, .info-hand, .info-deck, .info-discard {
-    min-width: 50px;
-}
-
-.info-waiting {
-    width: 20px;
-    display: flex;
-    justify-content: center;
-}
