@@ -1,3 +1,7 @@
 @import 'ScoreBar.css';
 
 
+.card-in-hand {
+    width: 100%;
+    border-radius: 5%;
+}
